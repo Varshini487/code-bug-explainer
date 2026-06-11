@@ -1,0 +1,4 @@
+streamlit
+openai
+python-language-server
+ast-comments
